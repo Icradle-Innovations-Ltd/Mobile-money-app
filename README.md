@@ -1,1 +1,1 @@
-# SecMob
+# Mobile Money App
